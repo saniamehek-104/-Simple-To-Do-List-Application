@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
 
 
 # Define an empty list to store tasks
@@ -66,28 +62,5 @@ while True:
         break
     else:
         print("Invalid choice. Please enter a valid option.")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
